@@ -7,11 +7,18 @@
     <link href="style.css" rel="stylesheet" type="text/css">
   </head>
   <body>
-    <div id="pic">
+    <!-- Big Pic -->
+    <div id="pic"> 
         <img src="http://placekitten.com/500/150" alt="Big Cat Pic">
     </div>
     <div id="icons">
-      <!-- TODO: spans for icons -->
+        <span><i class="fas fa-camera"></i></span>
+      <span><i class="fas fa-anchor"></i></span>
+      <span><i class="fas fa-bacon"></i></span>
+      <span><i class="fas fa-motorcycle"></i></span>
+      <span><i class="fas fa-chess-knight"></i></span>
+      <span><i class="fas fa-pie"></i></span>
+      <!-- spans for icons -->
     </div>
     <div id="mini-layout">
       <!-- TODO: Spans for four-item wide mini-layout -->
