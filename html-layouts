@@ -35,6 +35,48 @@
                 <a href="http://placekitten.com">More Cats</a>
             </div>
         </span>
+        <span>
+            <div>
+              <img src="http://place-puppy.com/100x100" alt="Dog Pic">
+            </div>
+            <div>
+              <strong>Silly Puppy</strong>
+            </div>
+            <div>
+              <p>So curious!</p>
+            </div>
+            <div>
+              <a href="http://place-puppy.com">More Dogs</a>
+            </div>
+          </span>
+          <span>
+            <div>
+              <img src="https://placebear.com/100/100" alt="Bear Pic">
+            </div>
+            <div>
+              <strong>Fluffy Bear</strong>
+            </div>
+            <div>
+              <p>Aww a bear!</p>
+            </div>
+            <div>
+              <a href="https://placebear.com/">More Bears</a>
+            </div>
+          </span>
+          <span>
+            <div>
+              <img src="http://lorempixel.com/100/100/" alt="Random Pic">
+            </div>
+            <div>
+              <strong>Random Image</strong>
+            </div>
+            <div>
+              <p>Is It Good!?</p>
+            </div>
+            <div>
+              <a href="http://lorempixel.com/">Random Pic</a>
+            </div>
+          </span>
       <!--  Spans for four-item wide mini-layout -->
     </div>
   </body>
