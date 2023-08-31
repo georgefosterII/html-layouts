@@ -20,8 +20,22 @@
       <span><i class="fas fa-pie"></i></span>
       <!-- spans for icons -->
     </div>
-    <div id="mini-layout">
-      <!-- TODO: Spans for four-item wide mini-layout -->
+    <div id="pics">
+        <span>
+            <div>
+                <img src="http://placekitten.com/100/100" alt="Kitten Pic">
+            </div>
+            <div>
+                <strong>Cute Kitty</strong>
+            </div>
+            <div>
+                <p>So photogenic!</p>
+            </div>
+            <div>
+                <a href="http://placekitten.com">More Cats</a>
+            </div>
+        </span>
+      <!--  Spans for four-item wide mini-layout -->
     </div>
   </body>
 </html>
